@@ -1,2 +1,4 @@
 # Control-work-variant-4
-Program systems
+Software systems
+Контрольная работа для СПБГТИ (ТУ) 
+Разработка программных систем
